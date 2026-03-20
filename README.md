@@ -1,0 +1,2 @@
+# CopilotStudioSamplesJP
+Copilot Studio の日本語サンプルやテンプレートなどを提供
